@@ -4,7 +4,7 @@
 
 HolmesOS is an intelligent home management system that brings together all aspects of your smart home into one beautiful, unified interface. Built with modern web technologies and designed for the tech-savvy homeowner who wants complete control over their digital domain.
 
-![HolmesOS Logo](src/logo/HomesOS.png)
+![HolmesOS Logo](src/logo/HomeOS.png)
 
 ## 🏠 Features
 
